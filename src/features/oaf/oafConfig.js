@@ -48,7 +48,7 @@ const validateConfig = (config) => {
 const config = {
   appId: CONFIG_PROPS.APP_ID,
   coupahost: "https://ey-in-demo.coupacloud.com/",
-  iframeId: urlParams.get(CONFIG_PROPS.URL_PARAMS.IFRAME_ID),
+  iframeId: "68",
 };
 
 // Validate configuration before exporting
