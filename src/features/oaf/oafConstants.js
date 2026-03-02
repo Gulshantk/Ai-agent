@@ -17,8 +17,8 @@ export const CONFIG_PROPS = {
   },
 
   URL_PARAMS: {
-    COUPA_HOST: "coupahost",
-    IFRAME_ID: "floating_iframe_id",
+    COUPA_HOST: "ey-in-demo.coupacloud.com",
+    IFRAME_ID: "68",
   },
 };
 
