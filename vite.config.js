@@ -8,4 +8,7 @@ export default defineConfig({
   server: {
     port: 3000, // changed from default to 3000
   },
+  build: {
+    outDir: 'dist', // ensure Vercel picks up correct folder
+  },
 })
