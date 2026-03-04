@@ -9,7 +9,7 @@
  */
 export const CONFIG_PROPS = {
   /** Unique application identifier for OAF registration */
-  APP_ID: "myapp_001", //update this with your app-id
+  APP_ID: "myapp_001234567", //update this with your app-id
   HOST_URLS: {
     LOCALHOST: "http://localhost:46880",
     HTTPS_PROTOCOL: "https://",
